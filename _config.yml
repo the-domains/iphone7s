@@ -1,0 +1,28 @@
+name: iphone7s
+favicon: null
+layout_spectrum: 0.1990829559508711
+typography_spectrum: 0.020941924769431353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6018437168095261
+  lightness: 0.3762275381013751
+  saturation: 0.8487095008604228
+  rhythmicContrast: 0.5664038355462253
+purpose: []
